@@ -2,8 +2,7 @@
 
 Bem-vindo ao meu portfólio pessoal. Aqui você encontrará informações sobre meus projetos, especializações em Bioinformática, Ciência de Dados e Desenvolvimento em Python.
 
-Acesse meu site: [gustavodamiani.github.io](https://gustavodamiani.github.io)
+Acesse meu site: [[gustavodamiani.github.io](https://gustavodamiani.github.io)](https://gustavodamiani1407.github.io/GustavoDamiani1407/)
 
 ## Projetos em destaque
-
-- [Image Forge](https://github.com/gustavodamiani/Image-Forge) — Ferramenta para conversão e organização de imagens.
+Image forge: (CONTINUE AQUI)
