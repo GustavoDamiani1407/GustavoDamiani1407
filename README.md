@@ -1,36 +1,43 @@
 # Portfólio de Gustavo Damiani 🚀
 
-Olá! Sou Gustavo, especialista em Bioinformática, Ciência de Dados e Desenvolvimento de Ferramentas Python.
+Olá! Sou **Gustavo Damiani**, especialista em **Bioinformática**, **Ciência de Dados** e **Desenvolvimento de Ferramentas Python**.
 
-Aqui você vai encontrar uma seleção dos meus principais projetos que fazem a diferença no dia a dia.
-
-🌐 Acesse meu site: https://gustavodamiani1407.github.io/GustavoDamiani1407/
-
-💼 Conecte-se comigo no LinkedIn: www.linkedin.com/in/gustavo-giacon-damiani-902ab9202
+Aqui você encontrará uma seleção dos meus principais projetos — soluções práticas e eficientes criadas para resolver problemas reais.
 
 ---
 
-## Projetos em Destaque
+🌐 **Site pessoal:**  
+[gustavodamiani1407.github.io/GustavoDamiani1407](https://gustavodamiani1407.github.io/GustavoDamiani1407/)
 
-### 🖼 Image Forge
-Ferramenta para conversão e organização de imagens, ideal para automatizar tarefas repetitivas, remoção de duplicatas e padronização de arquivos.
+💼 **LinkedIn:**  
+[linkedin.com/in/gustavo-giacon-damiani-902ab9202](https://www.linkedin.com/in/gustavo-giacon-damiani-902ab9202)
 
-🔗 (CONTINUE AQUI)
-
----
-
-## Habilidades Técnicas
-
-- Python (Automação, Scripts, Ferramentas)
-- Bioinformática
-- Ciencia e analise de Dados
-- Controle de Versão com Git e GitHub
+📧 **Email para contato:**  
+gustavodamiani1407@gmail.com
 
 ---
 
-## Contato
+## 🧩 Projetos em Destaque
 
-Fique à vontade para me chamar via LinkedIn ou email!
+### 🖼 **Image Forge**
+Ferramenta para **conversão e organização de imagens**, ideal para automatizar tarefas repetitivas, eliminar duplicatas e padronizar arquivos visuais.
 
-📧 gustavodamiani1407@gmail.com
+🔗 [Acesse o repositório no GitHub](https://github.com/gustavodamiani/Image-Forge)
 
+---
+
+## 🛠️ Habilidades Técnicas
+
+- 🐍 Python (automação, scripts, ferramentas visuais)
+- 🧬 Bioinformática aplicada
+- 📊 Ciência e análise de dados
+- 🔄 Controle de versão com Git e GitHub
+
+---
+
+## 🤝 Vamos conversar?
+
+Se tiver interesse em colaborações, projetos ou freelas, estou à disposição!
+
+📩 Me chame pelo [LinkedIn](https://www.linkedin.com/in/gustavo-giacon-damiani-902ab9202) ou envie um e-mail para  
+**gustavodamiani1407@gmail.com**
