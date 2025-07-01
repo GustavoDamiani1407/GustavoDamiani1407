@@ -1,4 +1,5 @@
 # Portfólio de Gustavo Damiani 🚀
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Olá! Sou **Gustavo Damiani**, especialista em **Bioinformática**, **Ciência de Dados** e **Desenvolvimento de Ferramentas Python**.
 
