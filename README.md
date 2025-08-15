@@ -11,9 +11,6 @@ Aqui você encontrará uma seleção dos meus principais projetos — soluções
 
 ---
 
-🌐 **Site pessoal:**  
-[gustavodamiani1407.github.io/GustavoDamiani1407](https://gustavodamiani1407.github.io/GustavoDamiani1407/)
-
 💼 **LinkedIn:**  
 [linkedin.com/in/gustavo-giacon-damiani-902ab9202](https://www.linkedin.com/in/gustavo-giacon-damiani-902ab9202)
 
