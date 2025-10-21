@@ -24,7 +24,7 @@ gustavodamiani1407@gmail.com
 ### 🖼 **Image Forge**
 Ferramenta para **conversão e organização de imagens**, ideal para automatizar tarefas repetitivas, eliminar duplicatas e padronizar arquivos visuais.
 
-🔗 [(https://github.com/gustavodamiani/Image-Forge)](https://github.com/GustavoDamiani1407/Image-Forge/tree/main)](https://github.com/GustavoDamiani1407/Image-Forge/tree/main)
+🔗 https://github.com/GustavoDamiani1407/Image-Forge/tree/main
 
 ### 🖼 **FungiFinder**
 Pipeline de bioinformática que identifica espécies de fungos a partir de dados brutos de sequenciamento (FASTQ)
